@@ -1,0 +1,12 @@
+Here are the given test entries:
+- user@example.com
+- firstname.lastname@company.co.uk
+- https://www.example.com
+- https://subdomain.example.org/page
+- (123) 456-7890
+- 123-456-7890
+- 123.456.7890
+- 1234 5678 9012 3456
+- 1234-5678-9012-3456
+- 14:30
+- 2:30 PM
