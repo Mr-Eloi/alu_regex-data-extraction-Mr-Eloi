@@ -17,9 +17,4 @@ test inputs.
 ```bash
 python data_extractor.py
 ```
-3. Check Output.txt for Results
-4.  Run Test Cases for Edge-case Handling:
-```bash
-python test_cases.py
-```
-5. Check the Terminal & That's It.
+3. Check Output.txt for Results & Terminal for Quick Results.
