@@ -11,7 +11,9 @@ This project extracts structured information from raw strings using Python and R
 ## ▶️ How to Run
 
 1. Clone the repo
-2. Run the main script:
+2. Check the **sample_input.txt** to make any changes to the 
+test inputs.
+3. Run the main script:
 ```bash
 python data_extractor.py
 ```
